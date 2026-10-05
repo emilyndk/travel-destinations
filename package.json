@@ -1,15 +1,7 @@
 {
-  "name": "travel-destinations",
+  "name": "traveldestination",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/emilyndk/travel-destinations#readme",
-  "bugs": {
-    "url": "https://github.com/emilyndk/travel-destinations/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/emilyndk/travel-destinations.git"
-  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
